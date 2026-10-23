@@ -18,14 +18,11 @@ Works on Google TV devices (Google TV Streamer, Chromecast with Google TV, onn 4
 
 ### Without a computer (using the free Downloader app)
 
-1. On the TV, open the **Google Play Store**, search for **Downloader** (by AFTVnews) and install it.
-2. Go to **Settings > Apps > Security & restrictions > Unknown sources** and turn on **Downloader**. (On some TVs this is under **Settings > Privacy** or **Settings > Apps > Special app access > Install unknown apps**.)
-3. Open **Downloader**, type the link above into its address box and select **Go**. When the download finishes, choose **Install**.
-4. Open **TeeBee** from your apps. Its setup screen helps you turn on the two permissions it needs: **Display over other apps** (the timer over shows) and **Notification access** (to know when an episode ends).
-
-5. Optional, to make **Home** on the remote open TeeBee instead of Google TV: **Settings > Apps > Default apps > Home app** (on some TVs, search Settings for **Home app**) and choose **TeeBee**. To undo, choose **Google TV** there again.
-
-The settings screens in steps 2, 4 and 5 are confirmed on the Google TV Streamer; installing through Downloader hasn't been tried end to end yet. If something doesn't match your TV, the computer route below always works.
+1. On the TV, open the **Google Play Store**, search for **Downloader** and install it.
+2. Open **Downloader**. When it asks, allow it to install apps. (If it doesn't ask: **Settings > Apps > Security & restrictions > Unknown sources**, turn on **Downloader**.)
+3. In Downloader's address box, type **luminabrands.github.io/teebee** and select **Go**. Then select **Download TeeBee** and **Install**.
+4. Open **TeeBee**, press **Up, Up, Down, Down** on the remote for the grown-up menu, and choose **Turn on the timer over shows** and **Turn on episode detection**. Each opens the TV's own setting: switch TeeBee on, then press Back.
+5. Optional, to make **Home** on the remote open TeeBee: **Settings > Apps > Default apps > Home app** (or search Settings for **Home app**) and choose **TeeBee**. To undo, choose **Google TV** there again.
 
 ### With a computer
 
