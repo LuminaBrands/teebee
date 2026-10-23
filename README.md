@@ -23,7 +23,9 @@ Works on Google TV devices (Google TV Streamer, Chromecast with Google TV, onn 4
 3. Open **Downloader**, type the link above into its address box and select **Go**. When the download finishes, choose **Install**.
 4. Open **TeeBee** from your apps. Its setup screen helps you turn on the two permissions it needs: **Display over other apps** (the timer over shows) and **Notification access** (to know when an episode ends).
 
-This route is new and not yet tested step by step. If something doesn't match your TV, the computer route below always works.
+5. Optional, to make **Home** on the remote open TeeBee instead of Google TV: **Settings > Apps > Default apps > Home app** (on some TVs, search Settings for **Home app**) and choose **TeeBee**. To undo, choose **Google TV** there again.
+
+The settings screens in steps 2, 4 and 5 are confirmed on the Google TV Streamer; installing through Downloader hasn't been tried end to end yet. If something doesn't match your TV, the computer route below always works.
 
 ### With a computer
 
